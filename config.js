@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '8122104472' //Nomor Bot
+global.nomorown = '8098956026' //Nomor Owner
+global.namebot = 'ash-MD-v1' //Nama Bot
+global.nameown = 'regina reshmi' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
